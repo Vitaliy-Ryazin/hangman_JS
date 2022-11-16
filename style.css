@@ -19,6 +19,6 @@ body {
     display: none;
 }
 
-.enter-letter{
+#enter-letter{
     width: 5px;
 }
