@@ -1,7 +1,7 @@
 body {
     font-family: 'Raleway', arial, sans-serif;
     font-style: 800;
-    background: rgb(255, 255, 255)255, 255);
+    background: rgb(255, 255, 255);
     text-align: center;
 }
 
@@ -11,10 +11,14 @@ body {
     text-align: center;
 }
 
-.button {
+button {
     margin-left: 5px;
 }
 
 .game-menu {
     display: none;
+}
+
+.game-menu-down {
+    margin-top: 20px;
 }
