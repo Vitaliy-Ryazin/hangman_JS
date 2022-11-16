@@ -11,7 +11,7 @@ body {
     text-align: center;
 }
 
-button {
+.button {
     margin-left: 5px;
 }
 
@@ -20,5 +20,5 @@ button {
 }
 
 .enter-letter{
-    width: 10px;
+    width: 5px;
 }
